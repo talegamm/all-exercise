@@ -1,5 +1,5 @@
 # github-actions
-![Python CI Workflow] https://github.com/talegamm/all-exercise/actions/workflows/python.yml/badge.svg
+![Python CI Workflow](https://github.com/talegamm/all-exercise/actions/workflows/python.yml/badge.svg)
 1. Build a CI/CD pipile for python with multiple versions
 2. Add a badge
 3. Test locally using act
